@@ -1,0 +1,11 @@
+body {
+	color: whitesmoke;
+	background: black;
+}
+
+#hidden-element-area {
+	/* visibility: hidden; */
+	width: 100px;
+	background: white;
+	color: grey;
+}
